@@ -2,16 +2,16 @@
 
 package = 'lake'
 
-version = '1.2-1'
+version = '1.4.1-1'
 
 -- LuaDist source
 source = {
-  tag = "1.2-1",
+  tag = "1.4.1-1",
   url = "git://github.com/LuaDist-testing/lake.git"
 }
 -- Original source
 -- source = {
---     url = "http://stevedonovan.github.com/files/lake-1.2-core.zip",
+--     url = "http://stevedonovan.github.com/files/lake1.4.1-core.zip",
 --     dir = 'Lake'
 -- }
 
@@ -24,7 +24,7 @@ and MSVC compilers, particularly for building Lua C
 extensions.
     ]],
     license = 'MIT/X11',
-    homepage = "http://stevedonovan.github.com/lake/",
+    homepage = "https://stevedonovan.github.com/lake/",
     maintainer = "steve.j.donovan@gmail.com"
 }
 
